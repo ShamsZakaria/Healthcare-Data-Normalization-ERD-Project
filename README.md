@@ -24,3 +24,8 @@ SQL (Normalization, ERD, CTEs, Window Functions), Manual Data Modeling, Entity-R
 - Built relational structure with 6+ tables for scalable querying
 - Removed data duplication, transitive dependencies
 - Enabled analytical queries with performance-focused design
+
+
+## SQL Queries
+This project includes over 30 structured SQL queries used to analyze hospital operations, patient demographics, test results, and billing data. These queries are available in the [healthcare_analysis_queries.sql](./queries.sql) file.
+
